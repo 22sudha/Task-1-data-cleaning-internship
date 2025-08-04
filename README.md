@@ -27,7 +27,7 @@ Clean and preprocess the **Netflix Movies and TV Shows dataset** using Python an
 ## 📊 Visualization
 The number of movies and TV shows added over time was visualized using a bar chart, allowing clearer comparisons across months.
 
-📎 image 2.png — Visual summary of Top 10 Countries with Most Content on Netflix.
+📎 [image 2.png](https://github.com/22sudha/Task-1-data-cleaning-internship/blob/main/image%202.png) — Visual summary of Top 10 Countries with Most Content on Netflix.
 
 ---
 
